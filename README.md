@@ -1,4 +1,4 @@
-# Site created using Flexbox
+# Webpage created using Flexbox
 
 A webpage according to the template (refer to the image below) provided in the odin project is created.
 
